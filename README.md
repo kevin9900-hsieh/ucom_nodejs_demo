@@ -1,3 +1,9 @@
+# Node.JS 14hr
+
+## Last modified:09-Mar-2020
+
+### `node.JS`,`npm`,`javascript`
+
 ### Important links
 * https://nodejs.org/en/
 
@@ -127,3 +133,7 @@ code .
 * npm (egamma)
 * git graph
 
+### update npm packages
+```
+npm install npm --global
+```
